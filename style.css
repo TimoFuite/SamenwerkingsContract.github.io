@@ -121,18 +121,3 @@ a {
     .github_button:hover {
     background-image: url(images/button_github_hover.png);
     }
-
-.minecraft_button {
-    color: #FFF700;
-    position: relative;
-    left: 150px;
-    top: 140px;
-    transform: rotate(340deg);
-}
-
-    a.minecraft_button {
-        display: block;
-        width: 20%;
-    }
-
-    
